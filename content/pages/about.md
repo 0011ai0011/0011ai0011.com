@@ -13,11 +13,10 @@ author: "Antonio Imperi"
 - ⚡ Fun fact - Life is short smile while you have teeth 😎
 - 📣 Motto - .'. make a better man out of good man .'.
 - ⌚ Experiences ⤵️ 😲
-
-0 - 2 years Cybersecurity 
-1 - 4 years Electronic equipment repair
-2 - 20 years Oil & Gas tech
-3 - 5 years Pro brewer
-4 - 10 years Home Brewing
-5 - 4 years Coffee roasting and brewing
+    - (0) - 2 years Cybersecurity 
+    - (1) - 4 years Electronic equipment repair
+    - (2) - 20 years Oil & Gas tech
+    - (3) - 5 years Pro brewer
+    - (4) - 10 years Home Brewing
+    - (5) - 4 years Coffee roasting and brewing
 
