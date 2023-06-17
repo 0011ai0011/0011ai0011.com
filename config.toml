@@ -166,20 +166,20 @@ languageName = ":uk:"
 [[languages.en.menu.main]]
 name = "About"
 weight = 1
-url = "about/"
+url = "pages/about/"
 
 [[languages.en.menu.main]]
 name = "Blog"
 weight = 2
-url = "posts/"
+url = "pages/"
 
 [[languages.en.menu.main]]
 name = "Projects"
 weight = 3
-url = "projects/"
+url = "pages/"
 
 [[languages.en.menu.main]]
 name = "Contact me"
 weight = 5
-url = "contact/"
+url = "pages/contact/"
 
