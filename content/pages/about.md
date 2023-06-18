@@ -9,7 +9,7 @@ author: "Antonio Imperi"
 ## In short, Tech Enthusiast with passion for IT, Electronic and 🔥Spirituality🔥! 
 - 🔭 I’m currently working on electronic/electric equipment repair.
 - 🌱 I’m currently learning Cyber Security (never stop to learn)
-- 🥅 2023 Goal - Get [ Cert IV Cybersecurity( DONE) CCNA (  ) and OSCP(  )
+- 🥅 2023 Goal - Get [ Cert IV Cybersecurity( ✅ DONE), CCNA ( [ ] ) and OSCP( [ ] )
 - ⚡ Fun fact - Life is short smile while you have teeth 😎
 - 📣 Motto - .'. make a better man out of good man .'.
 - ⌚ Experiences ⤵️ 😲
