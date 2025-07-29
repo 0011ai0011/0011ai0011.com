@@ -2,19 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>0011ai0011</title>
-    <link>https://0011ai0011.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on 0011ai0011</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Jun 2023 09:50:51 +1000</lastBuildDate><atom:link href="https://0011ai0011.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Jun 2023 09:50:51 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://0011ai0011.com/pages/about/</link>
+      <link>http://localhost:1313/pages/about/</link>
       <pubDate>Sat, 17 Jun 2023 09:50:51 +1000</pubDate>
-      
-      <guid>https://0011ai0011.com/pages/about/</guid>
-      <description>In short, Tech Enthusiast with passion for IT, Electronic and 🔥Spirituality🔥! Link to heading 🔭 I’m currently working on electronic/electric equipment repair. 🌱 I’m currently learning Cyber Security (never stop to learn) 🥅 2023 Goal - Get [ Cert IV Cybersecurity( DONE) CCNA (  ) and OSCP(  ) ⚡ Fun fact - Life is short smile while you have teeth 😎 📣 Motto - .&amp;rsquo;. make a better man out of good man .</description>
+      <guid>http://localhost:1313/pages/about/</guid>
+      <description>&lt;h2 id=&#34;in-short-tech-enthusiast-with-passion-for-it-electronic-and-spirituality&#34;&gt;&#xA;  In short, Tech Enthusiast with passion for IT, Electronic and 🔥Spirituality🔥!&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#in-short-tech-enthusiast-with-passion-for-it-electronic-and-spirituality&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;🔭 I’m currently working on electronic/electric equipment repair.&lt;/li&gt;&#xA;&lt;li&gt;🌱 I’m currently learning Cyber Security (never stop to learn)&lt;/li&gt;&#xA;&lt;li&gt;🥅 2023 Goal - Get [ Cert IV Cybersecurity( ✅ DONE), CCNA ( [ ] ) and OSCP( [ ] )&lt;/li&gt;&#xA;&lt;li&gt;⚡ Fun fact - Life is short smile while you have teeth 😎&lt;/li&gt;&#xA;&lt;li&gt;📣 Motto - .&amp;rsquo;. make a better man out of good man .&#39;.&lt;/li&gt;&#xA;&lt;li&gt;⌚ Experiences ⤵️ 😲&#xA;&lt;ul&gt;&#xA;&lt;li&gt;(0) - 2 years Cybersecurity&lt;/li&gt;&#xA;&lt;li&gt;(1) - 4 years Electronic equipment repair&lt;/li&gt;&#xA;&lt;li&gt;(2) - 20 years Oil &amp;amp; Gas tech&lt;/li&gt;&#xA;&lt;li&gt;(3) - 5 years Pro brewer&lt;/li&gt;&#xA;&lt;li&gt;(4) - 10 years Home Brewing&lt;/li&gt;&#xA;&lt;li&gt;(5) - 4 years Coffee roasting and brewing&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
   </channel>
 </rss>

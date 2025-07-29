@@ -3,10 +3,12 @@ title = "0011ai0011"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
-paginate = 20
 enableEmoji = true
 # Enable Disqus comments
 # disqusShortname = "yourdiscussshortname"
+
+[pagination]
+  pagerSize = 10
 
 [markup.highlight]
 noClasses = false
